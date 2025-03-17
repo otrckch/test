@@ -1,0 +1,18 @@
+{
+  "nodejs": {
+    "version": "18.16.0",
+    "isUpdateMandatory": false
+  },
+  "android": {
+    "version": "1.2.0",
+    "isUpdateMandatory": false
+  },
+  "ios": {
+    "version": "1.2.0",
+    "isUpdateMandatory": false
+  },
+  "maintenance": {
+    "inMaintenance": false,
+    "message": "We are making maintenance improvements. The system may be temporarily unavailable."
+  }
+}
