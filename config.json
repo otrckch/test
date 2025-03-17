@@ -1,15 +1,18 @@
 {
   "nodejs": {
     "version": "18.16.0",
-    "isUpdateMandatory": false
+    "isUpdateMandatory": false,
+    "isUpdateOptional": false
   },
   "android": {
     "version": "1.2.0",
-    "isUpdateMandatory": false
+    "isUpdateMandatory": false,
+    "isUpdateOptional": false
   },
   "ios": {
     "version": "1.2.0",
-    "isUpdateMandatory": false
+    "isUpdateMandatory": false,
+    "isUpdateOptional": false
   },
   "maintenance": {
     "inMaintenance": false,
