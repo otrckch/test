@@ -1,0 +1,76 @@
+{
+  "appGeneral": {
+    "backgroundImage": "../images/appBackground",
+    "networkRequired": true,
+    "logo": {
+      "appLogo": "../logo/appLogo.svg",
+      "notificationLogo": "../logo/notificationLogo.svg"
+    }
+  },
+  "splashScreen": {
+    "isRequired": true,
+    "numberOfSeconds": 1.5,
+    "splashScreenLogoURL": "../logo/logo.svg"
+    "splashScreenBackground": "../../...svg"
+
+  },
+  "loginScreen": {
+    "loginExist": true,
+    "loginIsRequired": false,
+    "shallAppearUponLaunching": true
+  },
+  "drawer": {
+    "isEnabled": true,
+    "buttons": [
+      {
+        "title": "home",
+        "icon": "../icons/home.svg"
+      },
+      {
+        "title": "account",
+        "icon": "../icons/account.svg"
+      },
+      {
+        "title": "settings",
+        "icon": "../icons/settings.svg"
+      },
+      {
+        "title": "notifications",
+        "icon": "../icons/notifications.svg"
+      },
+      {
+        "title": "subscription",
+        "icon": "../icons/subscription.svg"
+      },
+      {
+        "title": "about us",
+        "icon": "../icons/about_us.svg"
+      },
+      {
+        "title": "contact us",
+        "icon": "../icons/contact_us.svg"
+      }
+    ]
+  },
+  "bottomTabNavigator": {
+    "isEnabled": true,
+    "buttons": [
+      {
+        "title": "home",
+        "icon": "../icons/home.svg"
+      },
+      {
+        "title": "search",
+        "icon": "../icons/search.svg"
+      },
+      {
+        "title": "settings",
+        "icon": "../icons/settings.svg"
+      },
+      {
+        "title": "profile",
+        "icon": "../icons/profile.svg"
+      }
+    ]
+  }
+}
